@@ -1,6 +1,4 @@
-# CIS-Third-Year-Roadmap-2022
-
-# CIS-First-Year-Roadmap-2022
+# CIS Third Year Roadmap 2022
 
 ## Index:
 - [Subjects For All Department](#Subjects-For-All-Department)

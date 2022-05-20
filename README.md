@@ -54,7 +54,7 @@ _Work in Progress_
 
 ####  Human-computer interaction
 1. [Lectures recap- Eyad Hamza: HCI Revision & Recap](https://www.youtube.com/watch?v=Q5y9qViQb-Y&list=PLIzoD6CTXb3_Vcbg4V0q60VMxSDK8chPm&ab_channel=EyadHamza-%CF%80%27sSpace)
-2. [Sections recap- Mohammed Elmorshedy: HCI sections](https://www.youtube.com/watch?v=TXpQYcyj89s&list=PLIzoD6CTXb39pvum_XWu_qIYB4ujkRezL)
+2. [Sections recap- Ahmed Elmorshedy: HCI sections](https://www.youtube.com/watch?v=TXpQYcyj89s&list=PLIzoD6CTXb39pvum_XWu_qIYB4ujkRezL)
 #### System Design and implementation
 1.[English Crash Course-Geek's Lesson : System Design Course forBeginners](https://www.youtube.com/watch?v=MbjObHmDbZo&ab_channel=Geek%27sLesson)
 

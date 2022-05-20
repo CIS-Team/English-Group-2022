@@ -56,8 +56,8 @@ _Work in Progress_
 1. [Lectures - Ashraf Mohamed: HCI Lectures](https://www.youtube.com/watch?v=FwzaOznULmQ&list=PLr9rpAFygsYzMblXdp0WodNAT4zNvXMQa&ab_channel=AshrafMohamed)
 2. [Sections recap- Ahmed Elmorshedy: HCI sections](https://www.youtube.com/watch?v=TXpQYcyj89s&list=PLIzoD6CTXb39pvum_XWu_qIYB4ujkRezL)
 #### System Design and implementation
-1.[Lectures : System Design Course (https://www.youtube.com/watch?v=mJ-Kokma6Ak&list=PLr9rpAFygsYzTIz9S58Y59yXG-KQdZNC6&ab_channel=AshrafMohamed)
-2.[English Crash Course-Geek's Lesson : System Design Course forBeginners](https://www.youtube.com/watch?v=MbjObHmDbZo&ab_channel=Geek%27sLesson)
+1. [Lectures - Ashraf Mohamed: System Design and implementation Lectures](https://www.youtube.com/watch?v=mJ-Kokma6Ak&list=PLr9rpAFygsYzTIz9S58Y59yXG-KQdZNC6&ab_channel=AshrafMohamed)
+2. [English Crash Course-Geek's Lesson : System Design Course forBeginners](https://www.youtube.com/watch?v=MbjObHmDbZo&ab_channel=Geek%27sLesson)
 
 #### Artificial Intelligence
 1. [English Course -Artificial Intelligence Tutorial for Beginners : Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk&ab_channel=edureka%21)

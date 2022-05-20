@@ -26,10 +26,6 @@ Divided according to departments, The subjects common to all departments are fou
 ### Previous Contributions
 - [Drive For All Departments Subjects](https://drive.google.com/drive/folders/19G5npgw0notNP1nZ6BcY7V_9ddMnO8CR)
 
-### External Resources 
-
-
-
 
 ## CS Department Subjects
 

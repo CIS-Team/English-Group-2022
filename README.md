@@ -35,9 +35,8 @@ Divided according to departments, The subjects common to all departments are fou
 ## CS Department Subjects
 
 ### Current Contributions
+_Work in Progress_
 
-
-### Previous Contributions
 - [Drive For CS Department Subjects](https://drive.google.com/drive/folders/1vIXUxY3eOMcwiT7puyJ3WzwGbv8_t3VE)
 
 ### External Resources 
@@ -46,6 +45,8 @@ Divided according to departments, The subjects common to all departments are fou
 ## IS Department Subjects
 
 ### Current Contributions
+_Work in Progress_
+
 - [Drive For IS Department Subjects](https://drive.google.com/drive/folders/1YnM1A9wRpraZkcHrE-C2ad8xyzK0AesJ)
 
 
@@ -63,20 +64,18 @@ Divided according to departments, The subjects common to all departments are fou
 ## Bioinformatics Department Subjects
 
 ### Current Contributions
+_Work in Progress_
+
 - [Drive For Bioinformatics Department Subjects](https://drive.google.com/drive/folders/1RDmYpQLr7ILrRttfPf4MMABE2BgwbUOR)
-
-### Previous Contributions
-
 
 ### External Resources 
 
 ## Software Engineering Department Subjects
 
 ### Current Contributions
+_Work in Progress_
+
 - [Drive For SWE Department Subjects](https://drive.google.com/drive/folders/1PYYJKiqB_W8yzwmgBaiaorO3t19W2vtU)
-
-### Previous Contributions
-
 
 ### External Resources 
 

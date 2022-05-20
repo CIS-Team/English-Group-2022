@@ -10,7 +10,7 @@ Divided according to departments, The subjects common to all departments are fou
 - Previous contributions: resources from students from previous batches.
 - Current Contributions:  sources for our fellow batch colleagues.
 - External sources: sources that you can use to help you study your materials.
-- 
+
 ## Index:
 - [Subjects For All Department](#Subjects-For-All-Department)
 - [CS Department Subjects](#CS-Department-Subjects)

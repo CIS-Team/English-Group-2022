@@ -38,6 +38,9 @@ _Work in Progress_
 
 #### Artificial Intelligence
 1. [English Course -Artificial Intelligence Tutorial for Beginners : Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk&ab_channel=edureka%21)
+#### Software engineering
+1. [Arabic Course - Open Courses: Software Engineering  | هندسة برمجيات](https://www.youtube.com/watch?v=23wr24zdmQM&list=PL08ef9eJxtJZvt5BOsT46vN6kWnflVKH4)
+2. [Arabic course - Ahmed Alageed: Software Engineering ](https://www.youtube.com/playlist?list=PLquXYvvn8Qk-Yb-ytydSIePeSwTtQmPSX)
 
 ## IS Department Subjects
 

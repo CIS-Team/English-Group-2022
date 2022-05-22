@@ -97,7 +97,7 @@ _Work in Progress_
 1. [Arabic Course -Ahmed Yousry: Digital Image Processing - معالجة الصور بالعربي](https://www.youtube.com/playlist?list=PLPBnj6azlABbhxzgKfmwNFVXbq2UVEPtm)
 
 ### Genomics
-1. [Lectures recap- Eyad Hamza: Genomics sections](https://www.youtube.com/watch?v=eMe7rphw5-0&list=PLIzoD6CTXb38QZmCeBt05hJA6ETrqoW0u)
+1. [Lectures recap- Eyad Hamza: Genomics ](https://www.youtube.com/watch?v=eMe7rphw5-0&list=PLIzoD6CTXb38QZmCeBt05hJA6ETrqoW0u)
 2. [Sections recap- Eyad Hamza: Genomics sections](https://www.youtube.com/watch?v=gl9MM0uA-2o&list=PLIzoD6CTXb3_2cDB3zO37mOt2YOirX8qS)
 
 ## Software Engineering Department Subjects

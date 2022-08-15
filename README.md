@@ -26,3 +26,8 @@ _Adam Smith's books:
 - Cambridge IELTS 17 Academic - Audio Files
 - Cambridge IELTS 17 Academic - Book
 
+## Practice English wih a native tutor:
+
+You can use this link to sign up on Camply and get 10 free minutes practicing English with a native tutor.
+
+https://www.cambly.com/invite/M6PNZ22B?st=081522&sc=4

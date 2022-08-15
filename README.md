@@ -28,6 +28,6 @@ _Adam Smith's books:
 
 ## Practice English wih a native tutor:
 
-You can use this link to sign up on Camply and get 10 free minutes practicing English with a native tutor.
+You can use this link to sign up on Cambly and get 10 free minutes practicing English with a native tutor.
 
 https://www.cambly.com/invite/M6PNZ22B?st=081522&sc=4

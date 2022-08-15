@@ -13,7 +13,6 @@ https://drive.google.com/file/d/1eFMOusrCuh03PFcljkR8YBo8MQKwnl3o/view?usp=shari
 
 _Adam Smith's books:
 
-- Tips-for-ielts-speaking
 - Tips for ielts speaking
 - Tips for IELTS Reading
 - Tips for IELTS Reading_Answer

@@ -5,7 +5,7 @@ Here you find CIS's plan to help you improve your English level (Or) Prepare for
 ## Content:
 https://drive.google.com/file/d/1X82hqjaAkdLToO3nSsAN3i47u_LXTr7y/view?usp=sharing
 
-In this folder you can find IELTS materials
+In this folder, you can find IELTS materials
 
 https://drive.google.com/file/d/1eFMOusrCuh03PFcljkR8YBo8MQKwnl3o/view?usp=sharing
 
